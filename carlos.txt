@@ -1,3 +1,19 @@
 dsadmsa'da
 
+<<<<<<< HEAD
 teste - adrianook
+=======
+dnsmdnad/.sa,mdsa/.dn.msf ds.fdfd.dsam fdsfds f
+
+fdsad
+safd
+fdf
+sds
+fdf
+df
+ds
+fs
+fv
+cxvc
+cx
+>>>>>>> editado carlos.txt
